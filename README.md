@@ -19,6 +19,10 @@ My background in Electronics & Communication engineering instilled a deep analyt
 - **Tools:** SQL
 - Analyzed flight operations and passenger behavior through complex SQL queries to identify top routes and delay patterns.
 
+### [Employee & Project Data Analysis](link_to_repo)
+- **Tools:** Python(Numpy & Pandas)
+- Developed and executed a data processing workflow in Python to cleanse and merge disparate datasets, enabling accurate project cost analysis and performance tracking.
+
 ### [Shop Nest Business Analytics Dashboard](link_to_repo)
 - **Tools:** Power BI, DAX
 - Built an interactive dashboard to track sales, logistics, and customer behavior KPIs for an e-commerce business.
