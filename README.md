@@ -27,6 +27,15 @@ My background in Electronics & Communication engineering instilled a deep analyt
 - **Tools:** Power BI, DAX
 - Built an interactive dashboard to track sales, logistics, and customer behavior KPIs for an e-commerce business.
 
+## 📜 Certifications
+
+###  **Data Analyst** - Certified by Skillovilla (Platinum Category, 2025)
+  - *Skills: Excel, SQL, Python, Power BI, Problem Solving*
+
+###  **Programming Fundamentals** - Cerified by Duke University via Coursera (2019)
+  - *Skills: C Language, Programming Concepts*
+
+
 ## 📊 GitHub Stats
 [You can add your GitHub stats here later]
 
