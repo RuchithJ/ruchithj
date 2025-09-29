@@ -6,7 +6,7 @@ My background in Electronics & Communication engineering instilled a deep analyt
 
 ## 🛠️ Technical Skills
 - **Programming & Databases:** Python (Pandas, NumPy), SQL
-- **Visualization & BI Tools:** Power BI, Tableau, Excel
+- **Visualization & BI Tools:** Power BI, Excel
 - **Core Competencies:** Data Analysis, Statistical Hypothesis Testing, Data Wrangling, Business Intelligence
 
 ## 📂 Featured Projects
